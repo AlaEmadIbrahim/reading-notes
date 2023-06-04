@@ -2,8 +2,8 @@
 
 # Table of contents
 
-1. [Reading Class - 01](#code-401---reading-class---01a)
-2. [Reading Class - 02](#code-401---reading-class---01b)
+1. [Reading Class - 01a](#code-401---reading-class---01a)
+2. [Reading Class - 01b](#code-401---reading-class---01b)
 
 # Code 401 - Reading Class - 01a
 
