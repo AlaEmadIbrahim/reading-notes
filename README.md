@@ -2,10 +2,10 @@
 
 # Table of contents
 
-1. [Read: Class 01](#Read: Class 01)
-2. [Read: Class 02](#Read: Class 02)
+1. [Reading Class - 01](#code-401---reading-class---01)
+2. [Reading Class - 02](#code-401---reading-class---02)
 
-## Read: Class 01
+# Code 401 - Reading Class - 01
 
 How would you describe Node to a non-technical friend?
 
@@ -19,7 +19,7 @@ What is Node used for?
 . can build the server-side of web applications.
 . Also used these server-side applications with access to the operating system and file system.
 
-## Read: Class 02
+# Code 401 - Reading Class - 02
 
 An introduction to NodeJS and Express
 
