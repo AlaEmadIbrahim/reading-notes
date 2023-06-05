@@ -4,5 +4,5 @@
 
 | class                        | Link                     |
 | ---------------------------- | ------------------------ |
-| Node Ecosystem               | [class01a](./class1a.md) |
-| Express, NPM, TDD, CI/CD     | [class01b](./class1b.md) |
+| Node Ecosystem               | [class01a](./class01a.md) |
+| Express, NPM, TDD, CI/CD     | [class01b](./class01b.md) |
