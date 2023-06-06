@@ -37,5 +37,3 @@ learn about route methods, middleware, classes, use "next()"
 
               ____________________________________________________________________________________________
 
-
-                                         ### [Home Page](./README.md)
