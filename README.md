@@ -12,6 +12,7 @@
 | Express, NPM, TDD, CI/CD           | [class01b](./class01b.md)                                       |
 | Data Structures and Algorithms     | [Prep: Data Structures and Algorithms](./DataStructuresAlgo.md) |
 | Express REST API                   | [class02](./class02.md)                                         |
+| Linked Lists & Big O               | [class03](./class03.md)                                         |
 
 ## Things I want to know more about
 
