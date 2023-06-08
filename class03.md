@@ -16,7 +16,7 @@ The worst case analysis of algorithm efficiency, depending in two factors:
 
 -Understanding Big O notation is important in writing algorithms. It helps you determine when your algorithm is getting faster or slower. You can also compare different methods and choose the most efficient.
 
-### examples
+### examples..
 
 - Binary Search is O(log N) which is less complex than Linear Search. There are many more complex algorithms.
 - An example of a quadratic algorithm or O(N²) is a nested for loop.
