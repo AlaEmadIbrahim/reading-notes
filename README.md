@@ -14,6 +14,7 @@
 | Express REST API                   | [class02](./class02.md)                                         |
 | Linked Lists & Big O               | [Linked Lists](./linkedlist.md)                                   |
 | Data Modeling                      | [class03](./modeling.md)                                         |
+| Authentication                     | [class06](./class06.md)                                         |
 
 ## Things I want to know more about
 
