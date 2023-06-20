@@ -15,6 +15,7 @@
 | Linked Lists & Big O               | [Linked Lists](./linkedlist.md)                                   |
 | Data Modeling                      | [class03](./modeling.md)                                         |
 | Authentication                     | [class06](./class06.md)                                         |
+| Bearer Authorization               | [class07](./class07.md)                                         |
 
 ## Things I want to know more about
 
