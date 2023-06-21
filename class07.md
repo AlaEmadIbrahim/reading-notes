@@ -46,3 +46,9 @@ What are the three components (the structure) of a JWT signature?
 - Payload: The payload carries the actual data or claims about the user or entity being authenticated. It contains the information relevant to the application, such as user ID, roles, permissions, and custom data.
 
 - Signature: The signature is created by taking the encoded header, the encoded payload, and a secret key known only to the server.
+
+              ____________________________________________________________________________________________
+
+
+                                         ### [Home Page](./README.md)
+                                         

@@ -16,6 +16,7 @@
 | Data Modeling                      | [class03](./modeling.md)                                         |
 | Authentication                     | [class06](./class06.md)                                         |
 | Bearer Authorization               | [class07](./class07.md)                                         |
+| Access Control (ACL)               | [class07](./class08.md)                                         |
 
 ## Things I want to know more about
 

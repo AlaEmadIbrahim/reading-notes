@@ -44,3 +44,8 @@ How should your error messaging respond (both HTTP and HTML)? Why?
 Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
 
 - OWASP fundamentals are important because they emphasize the importance of security when interacting with authentication. OWASP (Open Web Application Security Project) is a community-driven organization that provides resources, guidelines, and best practices for developing secure web applications.
+
+              ____________________________________________________________________________________________
+
+
+                                         ### [Home Page](./README.md)
