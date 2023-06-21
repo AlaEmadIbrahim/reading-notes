@@ -38,7 +38,4 @@ Explain how RBAC might benefit a business.
 - Scalability
 - Let user administration and access management processes. It allows for efficient role-based provisioning, making it easier to grant or revoke access when employees change roles or leave the organization.
 
-              ____________________________________________________________________________________________
-
-
-                                         ### [Home Page](./README.md)
+| Home Page               | [Home Page](./README.md)                                |

@@ -45,7 +45,4 @@ Bookmark this link also and consider OWASP fundamentals any time you interact wi
 
 - OWASP fundamentals are important because they emphasize the importance of security when interacting with authentication. OWASP (Open Web Application Security Project) is a community-driven organization that provides resources, guidelines, and best practices for developing secure web applications.
 
-              ____________________________________________________________________________________________
-
-
-                                         ### [Home Page](./README.md)
+| Home Page               | [Home Page](./README.md)                                |

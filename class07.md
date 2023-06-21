@@ -47,8 +47,4 @@ What are the three components (the structure) of a JWT signature?
 
 - Signature: The signature is created by taking the encoded header, the encoded payload, and a secret key known only to the server.
 
-              ____________________________________________________________________________________________
-
-
-                                         ### [Home Page](./README.md)
-                                         
+| Home Page               | [Home Page](./README.md)                                |

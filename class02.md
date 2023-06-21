@@ -35,8 +35,4 @@ you should call "NEXT" in the middleware to pass control to the next middleware,
 - What are your learning goals after reading and reviewing the class README?
 learn about route methods, middleware, classes, use "next()"
 
-              ____________________________________________________________________________________________
-
-
-                                         ### [Home Page](./README.md)
-                                         
+| Home Page               | [Home Page](./README.md)                                |
