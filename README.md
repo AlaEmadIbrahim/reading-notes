@@ -18,6 +18,7 @@
 | Bearer Authorization               | [class07](./class07.md)                                         |
 | Access Control (ACL)               | [class08](./class08.md)                                         |
 | Authorization/Authentication       | [class09](./class09.md)                                         |
+| Stacks and Queues                  | [class10](./class10.md)                                         |
 
 ## Things I want to know more about
 
