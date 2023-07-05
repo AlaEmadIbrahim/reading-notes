@@ -20,6 +20,7 @@
 | Authorization/Authentication       | [class09](./class09.md)                                         |
 | Stacks and Queues                  | [class10](./class10.md)                                         |
 | Event Driven                       | [class11](./class11.md)                                         |
+| Socket.io                          | [class12](./class12.md)                                         |
 
 ## Things I want to know more about
 
