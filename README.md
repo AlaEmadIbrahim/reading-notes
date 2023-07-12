@@ -24,6 +24,7 @@
 | Message Queues                     | [class13](./class13.md)                                         |
 | Event Driven                       | [class14](./class14.md)                                         |
 | Depth tree                         | [class15](./class15.md)                                         |
+| Cloud Servers                      | [class16](./class16.md)                                         |
 
 ## Things I want to know more about
 
