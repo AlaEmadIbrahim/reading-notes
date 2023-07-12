@@ -23,6 +23,7 @@
 | Socket.io                          | [class12](./class12.md)                                         |
 | Message Queues                     | [class13](./class13.md)                                         |
 | Event Driven                       | [class14](./class14.md)                                         |
+| Depth tree                         | [class15](./class15.md)                                         |
 
 ## Things I want to know more about
 
