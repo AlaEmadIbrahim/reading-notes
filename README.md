@@ -26,6 +26,8 @@
 | Depth tree                         | [class15](./class15.md)                                         |
 | Cloud Servers                      | [class16](./class16.md)                                         |
 | S3 and Lambda                      | [class17](./class17.md)                                         |
+| AWS: API, Dynamo and Lambda        | [class18](./class18.md)                                         |
+| AWS: Events                        | [class19](./class19.md)                                         |
 
 ## Things I want to know more about
 
