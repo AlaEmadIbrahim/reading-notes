@@ -28,6 +28,7 @@
 | S3 and Lambda                      | [class17](./class17.md)                                         |
 | AWS: API, Dynamo and Lambda        | [class18](./class18.md)                                         |
 | AWS: Events                        | [class19](./class19.md)                                         |
+| Component Based UI                 | [class26](./class26.md)                                         |
 
 ## Things I want to know more about
 
