@@ -29,6 +29,7 @@
 | AWS: API, Dynamo and Lambda        | [class18](./class18.md)                                         |
 | AWS: Events                        | [class19](./class19.md)                                         |
 | Component Based UI                 | [class26](./class26.md)                                         |
+| useState() Hook                    | [class27](./class27.md)                                         |
 
 ## Things I want to know more about
 
