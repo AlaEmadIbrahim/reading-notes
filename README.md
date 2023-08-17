@@ -30,6 +30,7 @@
 | AWS: Events                        | [class19](./class19.md)                                         |
 | Component Based UI                 | [class26](./class26.md)                                         |
 | useState() Hook                    | [class27](./class27.md)                                         |
+| Component Lifecycle/useEffect Hook | [class28](./class28.md)                                         |
 
 ## Things I want to know more about
 
