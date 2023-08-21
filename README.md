@@ -31,6 +31,7 @@
 | Component Based UI                 | [class26](./class26.md)                                         |
 | useState() Hook                    | [class27](./class27.md)                                         |
 | Component Lifecycle/useEffect Hook | [class28](./class28.md)                                         |
+| Advanced State with Reducers       | [class29](./class29.md)                                         |
 
 ## Things I want to know more about
 
