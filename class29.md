@@ -17,3 +17,5 @@ What common list operation is useReduce named for, and why?
 When should you switch from useState to useReducer?
 
 - When state logic becomes intricate, managing state transitions more effectively.
+
+| Home Page               | [Home Page](./README.md)                                |

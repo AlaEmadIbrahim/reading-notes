@@ -13,3 +13,5 @@ How does the effect’s logic interact with the component?
 What is the importance of the return value from the effect’s logic function?
 
 - To allowing actions before unmounting or when dependencies change, preventing memory leaks or unexpected behavior.
+
+| Home Page               | [Home Page](./README.md)                                
