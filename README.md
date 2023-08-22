@@ -32,6 +32,7 @@
 | useState() Hook                    | [class27](./class27.md)                                         |
 | Component Lifecycle/useEffect Hook | [class28](./class28.md)                                         |
 | Advanced State with Reducers       | [class29](./class29.md)                                         |
+| Hash Tables                        | [class29](./class30.md)                                         |
 
 ## Things I want to know more about
 
