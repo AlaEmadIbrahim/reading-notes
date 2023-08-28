@@ -34,6 +34,7 @@
 | Advanced State with Reducers       | [class29](./class29.md)                                         |
 | Hash Tables                        | [class30](./class30.md)                                         |
 | Context API                        | [class31](./class31.md)                                         |
+| Context API - Behaviors            | [class32](./class32.md)                                         |
 
 ## Things I want to know more about
 
