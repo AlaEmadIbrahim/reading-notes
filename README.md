@@ -35,6 +35,8 @@
 | Hash Tables                        | [class30](./class30.md)                                         |
 | Context API                        | [class31](./class31.md)                                         |
 | Context API - Behaviors            | [class32](./class32.md)                                         |
+| Login and Auth                     | [class33](./class33.md)                                         |
+| API Integration                    | [class34](./class34.md)                                         |
 
 ## Things I want to know more about
 
