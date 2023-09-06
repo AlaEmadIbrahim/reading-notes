@@ -37,6 +37,7 @@
 | Context API - Behaviors            | [class32](./class32.md)                                         |
 | Login and Auth                     | [class33](./class33.md)                                         |
 | API Integration                    | [class34](./class34.md)                                         |
+| Graphs                             | [class35](./class35.md)                                         |
 
 ## Things I want to know more about
 
