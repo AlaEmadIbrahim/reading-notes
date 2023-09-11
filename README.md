@@ -39,6 +39,7 @@
 | API Integration                    | [class34](./class34.md)                                         |
 | Graphs                             | [class35](./class35.md)                                         |
 | Redux                              | [class36](./class36.md)                                         |
+| Combined Reducers                  | [class37](./class37.md)                                         |
 
 ## Things I want to know more about
 
