@@ -26,3 +26,5 @@ Name three Redux store methods given to us by createStore and describe their use
 ### Reducers:
 
 are a pure function in Redux. Pure functions are predictable. Reducers are the only way to change states in Redux. It is the only place where you can write logic and calculations. Reducer function will accept the previous state of app and action being dispatched, calculate the next state and returns the new object.
+
+| Home Page               | [Home Page](./README.md)                                |
