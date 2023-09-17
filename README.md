@@ -40,7 +40,8 @@
 | Graphs                             | [class35](./class35.md)                                         |
 | Redux                              | [class36](./class36.md)                                         |
 | Combined Reducers                  | [class37](./class37.md)                                         |
-| Combined Reducers                  | [class37](./class38.md)                                         |
+| Combined Reducers                  | [class38](./class38.md)                                         |
+|Redux Toolkit (RTK)                 | [class39](./class39.md)                                         |
 
 ## Things I want to know more about
 
