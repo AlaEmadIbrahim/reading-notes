@@ -42,6 +42,7 @@
 | Combined Reducers                  | [class37](./class37.md)                                         |
 | Combined Reducers                  | [class38](./class38.md)                                         |
 |Redux Toolkit (RTK)                 | [class39](./class39.md)                                         |
+|React Native                        | [class40](./class40.md)                                         |
 
 ## Things I want to know more about
 
